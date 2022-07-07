@@ -1,2 +1,4 @@
 # sitio-eva-maria-spa
- Sitio Web del Spa de Eva Maria Spa
+ -Sitio Web Estandar del Spa de Eva Maria .Utilizando : html,css, bootstrap ,JavaScript.
+ - Tiene 4 pestanas que son : Inicio,Sobre Nosotros, Servicios, Contacto.
+ - El sitio web es responsive. 
